@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Nokia 5110 LCD", "Nokia 5110 LCD\Nokia 5110 LCD.cproj", "{A256FD26-A8C0-4C0F-A39E-CDD68BF23B5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A256FD26-A8C0-4C0F-A39E-CDD68BF23B5A}.Debug|AVR.ActiveCfg = Debug|AVR
+		{A256FD26-A8C0-4C0F-A39E-CDD68BF23B5A}.Debug|AVR.Build.0 = Debug|AVR
+		{A256FD26-A8C0-4C0F-A39E-CDD68BF23B5A}.Release|AVR.ActiveCfg = Release|AVR
+		{A256FD26-A8C0-4C0F-A39E-CDD68BF23B5A}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "UARTReceiveLCD", "UARTReceiveLCD\UARTReceiveLCD.cproj", "{3AE6FB27-DECE-43DC-A5CF-89F8071BE49F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AE6FB27-DECE-43DC-A5CF-89F8071BE49F}.Debug|AVR.ActiveCfg = Debug|AVR
+		{3AE6FB27-DECE-43DC-A5CF-89F8071BE49F}.Debug|AVR.Build.0 = Debug|AVR
+		{3AE6FB27-DECE-43DC-A5CF-89F8071BE49F}.Release|AVR.ActiveCfg = Release|AVR
+		{3AE6FB27-DECE-43DC-A5CF-89F8071BE49F}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
